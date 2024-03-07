@@ -95,6 +95,10 @@ img {
     line-height: 56px;
 }
 
+.padding {
+    padding-bottom: 20px;
+}
+
 .heading.hn {
     color: #212121;
     letter-spacing: -.4px;
@@ -133,7 +137,7 @@ img {
     flex-wrap: wrap;
     flex-direction: column;
     width: 50%;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
 }
 
 .image-container {
